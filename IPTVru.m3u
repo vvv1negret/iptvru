@@ -10,7 +10,7 @@ http://hlsstr03.svc.iptv.rt.ru/hls/CH_NTV/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/427.png" group-title="Общественные",Пятый канал
 https://okkotv-live.cdnvideo.ru/channel/5_OTT.m3u8
 #EXTINF:-1 tvg-logo="https://picon.ml/kultura.png" group-title="Общественные",Россия К
-http://livehlsvgtrkrf.cdnvideo.ru/hls/russia_k/playlist_3.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2295.png" group-title="Общественные",RTД HD
 
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
