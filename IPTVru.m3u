@@ -167,9 +167,9 @@ http://94.230.240.17:8080/fan/tracks-v1a1/mono.m3u8
 http://94.230.240.17:8080/film_box/index.m3u8
 #EXTINF:-1 tvg-logo="https://picon.ml/flixsnip.png" group-title="Кинозал",FlixSnip
 https://sc.id-tv.kz/FlixSnip.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/127.png" group-title="Кинозал",Viju TV1000 HD
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/127.png" group-title="Кинозал",TV1000 HD
 https://okkotv-live.cdnvideo.ru/channel/TV1000_HD/1080p.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/125.png" group-title="Кинозал",Viju TV1000 Action HD
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/125.png" group-title="Кинозал",TV1000 Action HD
 https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD/1080p.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1011.png" group-title="Кинозал",Viju+ Comedy HD
 https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD/1080p.m3u8
@@ -216,7 +216,7 @@ http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m
 #EXTINF:-1 tvg-logo="https://picon.ml/sapfir.png" group-title="Кинозал",Сапфир
 https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD/1080p.m3u8
 
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/267.png" group-title="Кинозал (русские)",Viju TV1000 Русское кино HD
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/267.png" group-title="Кинозал (русские)",TV1000 Русское кино HD
 https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD/1080p.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/834.png" group-title="Кинозал (русские)",Дом Кино
 http://217.107.219.67:8006/playlist.m3u8
